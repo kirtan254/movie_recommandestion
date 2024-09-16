@@ -1,2 +1,0 @@
-README_innovetive_psc\ (1).pdf	app.txt		movie_dict.pkl	 similarity.pkl
-app.py				it's\ my.ipynb	movies\ (2).csv
